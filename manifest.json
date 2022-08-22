@@ -1,0 +1,8 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "note tracker",
+    "action": {
+        "default_icon": "notes.png"
+    }
+}

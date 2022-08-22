@@ -1,0 +1,24 @@
+table {
+    width:300px;
+    font-family: Tahoma, Arial, Verdana;
+    font-size: 20px;
+    font-weight: 5px;
+    color: black;
+}
+
+td {
+    padding-bottom:20px;
+}
+
+button {
+    color: #ffffff;
+    width: 150px;
+    background: rgb(32, 119, 218);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: Tahoma, Arial, Verdana;
+    font-size: 20px;
+    font-weight: 10px;
+    border-radius: 10px;
+    border: none;
+}
